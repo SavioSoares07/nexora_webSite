@@ -815,8 +815,8 @@ body.active {
    */
 
   .project-list > * {
-    min-width: calc(50% - 30px);
-    width: calc(50% - 30px);
+    min-width: calc(33.33% - 40px);
+    width: calc(33.33% - 40px);
   }
 }
 
@@ -964,6 +964,7 @@ body.active {
   }
 
   .project-list > *:is(:first-child, :nth-child(2)) {
-    width: calc(50% - 30px);
+    min-width: calc(33.33% - 40px);
+    width: calc(33.33% - 40px);
   }
 }
