@@ -644,12 +644,7 @@ body.active {
   gap: 30px;
   border-block: 1px solid var(--light-gray);
 }
-.footer-brand {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 100px;
-}
+
 .footer-link {
   font-size: var(--fs-4);
   transition: var(--transition-1);
